@@ -13,10 +13,6 @@ For project 3, your goal is two-fold:
 
 Pushshift's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`](https://www.reddit.com/r/boardgames), all I have to do is use the following url: https://api.pushshift.io/reddit/search/submission?subreddit=boardgames
 
-To help you get started, we have a primer video on how to use the API: https://youtu.be/AcrjEWsMi_E
-
-**NOTE:** Pushshift now limits you to 100 posts per request (no longer the 500 in the screencast).
-
 ---
 
 ### Requirements
@@ -36,7 +32,7 @@ To help you get started, we have a primer video on how to use the API: https://y
 - Code must be in at least one clearly commented Jupyter Notebook.
 - A readme/executive summary in markdown.
 - You must submit your slide deck as a PDF.
-- Materials must be submitted by **10:00 AM on Friday, October 23rd**.
+- Materials must be submitted by **9:00 AM on Friday, May 21**.
 
 ---
 
@@ -97,7 +93,7 @@ For Project 3 the evaluation categories are as follows:<br>
 - Is text data successfully converted to a matrix representation?
 - Are methods such as stop words, stemming, and lemmatization explored?
 - Does the student properly split and/or sample the data for validation/training purposes?
-- Does the student test and evaluate a variety of models to identify a production algorithm (**AT MINIMUM:** Bayes and one other model)?
+- Does the student test and evaluate a variety of models to identify a production algorithm (**AT MINIMUM:** Random Forest and one other model)?
 - Does the student defend their choice of production model relevant to the data at hand and the problem?
 - Does the student explain how the model works and evaluate its performance successes/downfalls?
 
