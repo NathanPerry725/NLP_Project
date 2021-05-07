@@ -5,11 +5,11 @@
 In week four we've learned about a few different classifiers. In week five we'll learn about webscraping, APIs, and Natural Language Processing (NLP). This project will put those skills to the test.
 
 For project 3, your goal is two-fold:
-1. Using [Pushshift's](https://github.com/pushshift/api) API, you'll collect posts from two subreddits of your choosing.
+1. Using any API, you'll collect posts from two subreddits of your choosing (ex: [Pushshift's](https://github.com/pushshift/api) API)
 2. You'll then use NLP to train a classifier on which subreddit a given post came from. This is a binary classification problem.
 
 
-#### About the API
+#### About the Pushshift API
 
 Pushshift's API is fairly straightforward. For example, if I want the posts from [`/r/boardgames`](https://www.reddit.com/r/boardgames), all I have to do is use the following url: https://api.pushshift.io/reddit/search/submission?subreddit=boardgames
 
